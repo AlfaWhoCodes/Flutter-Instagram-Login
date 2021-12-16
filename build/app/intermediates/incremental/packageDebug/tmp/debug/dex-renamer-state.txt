@@ -1,0 +1,4 @@
+#Sat Dec 11 16:43:39 IST 2021
+base.0=/Users/mohammedalfaz/alfacodes/instagram_login_page/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
